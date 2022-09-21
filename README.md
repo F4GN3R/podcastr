@@ -4,27 +4,20 @@
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/fagner-morais-6732a7130/">
-      <img alt="Fagner Morais" src="https://img.shields.io/badge/-FagnerMorais?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Fagner Morais" src="https://img.shields.io/badge/-FagnerMorais-5965e0?style=flat&logo=Linkedin&logoColor=white" />
    </a>
+  <img alt="NLW 5" src="https://img.shields.io/static/v1?label=NLW&message=5&color=5863d2">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/F4GN3R/podcastr-nlw?color=5863d2">
-
-  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/react/1/edicao/5">
-    <img src="https://img.shields.io/badge/Podcastr-NLW 5-5965e0?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
-  </a>
-  <a href="https://github.com/F4GN3R/move.it/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/F4GN3R/podcastr-nlw?color=5863d2">
-  </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
-  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/F4GN3R/podcastr-nlw?color=5863d2" />
   <a href="https://github.com/F4GN3R/move.it/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/F4GN3R/podcastr-nlw?color=5863d2&logo=github">
   </a>
 </p>
 
-<div>
+<p align="center">
    <img alt="Podcastr" src=".github/screenshot-1.png" width="400px">
    <img alt="Podcastr detalhes" src=".github/screenshot-2.png" width="400px">
-</div>
+</p>
 
 ## 💻 Projeto
 
