@@ -1,34 +1,79 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+</p>
 
-## Getting Started
+<p align="center">	
+   <a href="https://www.linkedin.com/in/fagner-morais-6732a7130/">
+      <img alt="Fagner Morais" src="https://img.shields.io/badge/-FagnerMorais?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/F4GN3R/podcastr-nlw?color=5863d2">
 
-First, run the development server:
+  <a aria-label="Completed" href="https://nextlevelweek.com/episodios/react/1/edicao/5">
+    <img src="https://img.shields.io/badge/Podcastr-NLW 5-5965e0?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  <a href="https://github.com/F4GN3R/move.it/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/F4GN3R/podcastr-nlw?color=5863d2">
+  </a> 
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/F4GN3R/podcastr-nlw?color=5863d2" />
+  <a href="https://github.com/F4GN3R/move.it/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/F4GN3R/podcastr-nlw?color=5863d2&logo=github">
+  </a>
+</p>
+
+<div>
+   <img alt="Podcastr" src=".github/screenshot-1.png" width="400px">
+   <img alt="Podcastr detalhes" src=".github/screenshot-2.png" width="400px">
+</div>
+
+## 💻 Projeto
+
+Aplicação web para reprodução de podcasts.
+
+## ✨ Tecnologias
+
+- [x] [React](https://reactjs.org/)
+- [x] [Typescript](https://www.typescriptlang.org/)
+- [x] [Next](https://nextjs.org/)
+- [x] [Axios](https://axios-http.com/ptbr/)
+- [x] [Date-fns](https://date-fns.org/)
+- [x] [SASS](https://sass-lang.com/)
+- [x] [json-server](https://www.npmjs.com/package/json-server)
+- [x] [rc-slider](https://www.npmjs.com/package/rc-slider)
+
+## 🛠 Features
+
+- Permite reproduzir podcasts;
+- Ver a descrição detalhada de um podcast específico;
+- Interagir com ações do player de audio (Aleatório, voltar, avançar, pausar, retomar e repetir);
+- Controla a execução do áudio pela barra de progresso;
+
+## 🚀 Executando o projeto
+
+**Node v14.0.0 >**
+
+1. Instalar as dependências do projeto:
 
 ```bash
-npm run dev
-# or
+yarn
+```
+
+2. Executar a API local com json-server (rotas e dados da API estão no arquivo `server.json`):
+
+```cl
+yarn server
+```
+
+3. Execute o projeto:
+
+```bash
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> Para acessar a aplicação digite http://localhost:3000 em seu browser
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 📄 Licença
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<br />
